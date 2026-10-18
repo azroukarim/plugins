@@ -5,6 +5,8 @@
 إعدادات القنوات **Ciefp** (إصدار 23.09.2026) بصيغة `tar.gz`، كل نسخة جاهزة
 للاستخراج مباشرة إلى جذر الجهاز `/` (تحتوي على `etc/enigma2/` و `etc/tuxbox/satellites.xml`).
 
+> 📄 لكل ملف على حدة (الرابط المباشر + سكريبت التثبيت الخاص به): راجع **[readme2.md](readme2.md)**
+
 تعمل على: Vu+ وصور OE-Alliance (OpenATV / OpenPLi / OpenViX / OpenBH / VTi ...)
 وأجهزة DreamOS (dm520 / dm900 / dm920 / DM ONE / DM TWO).
 
