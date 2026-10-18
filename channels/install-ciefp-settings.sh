@@ -6,10 +6,10 @@
 #    - Vu+ / OE-Alliance images (OpenATV, OpenPLi, OpenViX, OpenBH, VTi...)
 #    - DreamOS (dm520 / dm900 / dm920 / DM ONE / DM TWO ... systemd images)
 #
-#  Repository : https://github.com/azroukarim/plugins   (folder: Backups)
+#  Repository : https://github.com/azroukarim/plugins   (folder: channels)
 #
 #  Usage (interactive menu):
-#    wget -q --no-check-certificate https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/install-ciefp-settings.sh -O /tmp/install-ciefp.sh
+#    wget -q --no-check-certificate https://raw.githubusercontent.com/azroukarim/plugins/main/channels/install-ciefp-settings.sh -O /tmp/install-ciefp.sh
 #    sh /tmp/install-ciefp.sh
 #
 #  Usage (non interactive, example: option 16 = 18sat):
@@ -19,7 +19,7 @@
 #    sh /tmp/install-ciefp.sh 16 /tmp/ciefp-E2-18sat-....tar.gz
 ###############################################################################
 
-BASE="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups"
+BASE="https://raw.githubusercontent.com/azroukarim/plugins/main/channels"
 TMP="${TMPDIR:-/tmp}"
 FILE=""
 DOWNLOADED=0

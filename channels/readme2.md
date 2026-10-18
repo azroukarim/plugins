@@ -20,13 +20,13 @@
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-1sat-19E-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-1sat-19E-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-1sat-19E-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-1sat-19E-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -58,13 +58,13 @@ echo ">> Done: 1sat (19E)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-2satA-19E-13E-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-2satA-19E-13E-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-2satA-19E-13E-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-2satA-19E-13E-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -96,13 +96,13 @@ echo ">> Done: 2satA (19E + 13E)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-2satB-19E-16E-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-2satB-19E-16E-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-2satB-19E-16E-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-2satB-19E-16E-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -134,13 +134,13 @@ echo ">> Done: 2satB (19E + 16E)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-3satA-9E-10E-13E-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-3satA-9E-10E-13E-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-3satA-9E-10E-13E-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-3satA-9E-10E-13E-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -172,13 +172,13 @@ echo ">> Done: 3satA (9E + 10E + 13E)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-3satB-19E-16E-13E-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-3satB-19E-16E-13E-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-3satB-19E-16E-13E-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-3satB-19E-16E-13E-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -210,13 +210,13 @@ echo ">> Done: 3satB (19E + 16E + 13E)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-4satA-28E-19E-13E-30W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-4satA-28E-19E-13E-30W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-4satA-28E-19E-13E-30W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-4satA-28E-19E-13E-30W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -248,13 +248,13 @@ echo ">> Done: 4satA (28E + 19E + 13E + 30W)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-4satB-19E-16E-13E-0.8W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-4satB-19E-16E-13E-0.8W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-4satB-19E-16E-13E-0.8W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-4satB-19E-16E-13E-0.8W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -286,13 +286,13 @@ echo ">> Done: 4satB (19E + 16E + 13E + 0.8W)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-5sat-19E-16E-13E-1.9E-0.8W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-5sat-19E-16E-13E-1.9E-0.8W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-5sat-19E-16E-13E-1.9E-0.8W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-5sat-19E-16E-13E-1.9E-0.8W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -324,13 +324,13 @@ echo ">> Done: 5sat (19E + 16E + 13E + 1.9E + 0.8W)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-6sat-23E-19E-16E-13E-1.9E-0.8W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-6sat-23E-19E-16E-13E-1.9E-0.8W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-6sat-23E-19E-16E-13E-1.9E-0.8W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-6sat-23E-19E-16E-13E-1.9E-0.8W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -362,13 +362,13 @@ echo ">> Done: 6sat (23E + 19E + 16E + 13E + 1.9E + 0.8W)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-7sat-23E-19E-16E-13E-4.8E-1.9E-0.8W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-7sat-23E-19E-16E-13E-4.8E-1.9E-0.8W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-7sat-23E-19E-16E-13E-4.8E-1.9E-0.8W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-7sat-23E-19E-16E-13E-4.8E-1.9E-0.8W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -400,13 +400,13 @@ echo ">> Done: 7sat (23E + 19E + 16E + 13E + 4.8E + 1.9E + 0.8W)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-8sat-28E-23E-19E-16E-13E-4.8E-1.9E-0.8W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-8sat-28E-23E-19E-16E-13E-4.8E-1.9E-0.8W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-8sat-28E-23E-19E-16E-13E-4.8E-1.9E-0.8W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-8sat-28E-23E-19E-16E-13E-4.8E-1.9E-0.8W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -438,13 +438,13 @@ echo ">> Done: 8sat (28E + 23E + 19E + 16E + 13E + 4.8E + 1.9E + 0.8W)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-9sat-28E-23E-19E-16E-13E-9E-1.9E-0.8W-5W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-9sat-28E-23E-19E-16E-13E-9E-1.9E-0.8W-5W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-9sat-28E-23E-19E-16E-13E-9E-1.9E-0.8W-5W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-9sat-28E-23E-19E-16E-13E-9E-1.9E-0.8W-5W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -476,13 +476,13 @@ echo ">> Done: 9sat (28E + 23E + 19E + 16E + 13E + 9E + 1.9E + 0.8W + 5W)"
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-10sat-39E-28E-23E-19E-16E-13E-9E-4.8E-1.9E-0.8W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-10sat-39E-28E-23E-19E-16E-13E-9E-4.8E-1.9E-0.8W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-10sat-39E-28E-23E-19E-16E-13E-9E-4.8E-1.9E-0.8W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-10sat-39E-28E-23E-19E-16E-13E-9E-4.8E-1.9E-0.8W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -514,13 +514,13 @@ echo ">> Done: 10sat (39E + 28E + 23E + 19E + 16E + 13E + 9E + 4.8E + 1.9E + 0.8
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-13sat-42E-39E-28E-23E-19E-16E-13E-9E-7E-4.8E-1.9E-0.8w-5w-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-13sat-42E-39E-28E-23E-19E-16E-13E-9E-7E-4.8E-1.9E-0.8w-5w-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-13sat-42E-39E-28E-23E-19E-16E-13E-9E-7E-4.8E-1.9E-0.8w-5w-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-13sat-42E-39E-28E-23E-19E-16E-13E-9E-7E-4.8E-1.9E-0.8w-5w-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -552,13 +552,13 @@ echo ">> Done: 13sat (42E + 39E + 28E + 23E + 19E + 16E + 13E + 9E + 7E + 4.8E +
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-16sat-42E-39E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-16sat-42E-39E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-16sat-42E-39E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-16sat-42E-39E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -590,13 +590,13 @@ echo ">> Done: 16sat (42E + 39E + 28E + 26E + 23E + 19E + 16E + 13E + 10E + 9E +
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-18sat-42E-39E-36E-33E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-18sat-42E-39E-36E-33E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-18sat-42E-39E-36E-33E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-18sat-42E-39E-36E-33E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null
@@ -628,13 +628,13 @@ echo ">> Done: 18sat (42E + 39E + 36E + 33E + 28E + 26E + 23E + 19E + 16E + 13E 
 **الرابط المباشر:**
 
 ```
-https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-75E-34W-23.09.2026.tar.gz
+https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-75E-34W-23.09.2026.tar.gz
 ```
 
 **سكريبت التثبيت:**
 
 ```sh
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-75E-34W-23.09.2026.tar.gz"
+URL="https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-75E-34W-23.09.2026.tar.gz"
 wget -q --no-check-certificate "$URL" -O /tmp/ciefp.tar.gz || wget -q "$URL" -O /tmp/ciefp.tar.gz
 
 mkdir -p /tmp/ciefp-bak && cp -f /etc/enigma2/lamedb /etc/enigma2/bouquets.tv /etc/enigma2/bouquets.radio /tmp/ciefp-bak/ 2>/dev/null

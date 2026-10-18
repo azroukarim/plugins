@@ -1,4 +1,4 @@
-# Backups
+# Channels
 
 ## Ciefp E2 Settings 23.09.2026 (إعدادات القنوات)
 
@@ -35,7 +35,7 @@
 ### التثبيت بسكريبت (الطريقة الأسهل)
 
 ```sh
-wget -q --no-check-certificate https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/install-ciefp-settings.sh -O /tmp/install-ciefp.sh
+wget -q --no-check-certificate https://raw.githubusercontent.com/azroukarim/plugins/main/channels/install-ciefp-settings.sh -O /tmp/install-ciefp.sh
 sh /tmp/install-ciefp.sh
 ```
 
@@ -55,7 +55,7 @@ sh /tmp/install-ciefp.sh 16
 # OE images (Vu+...):
 init 4
 cd /tmp
-wget --no-check-certificate https://raw.githubusercontent.com/azroukarim/plugins/main/Backups/ciefp-E2-18sat-42E-39E-36E-33E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz
+wget --no-check-certificate https://raw.githubusercontent.com/azroukarim/plugins/main/channels/ciefp-E2-18sat-42E-39E-36E-33E-28E-26E-23E-19E-16E-13E-10E-9E-7E-4.8E-1.9E-0.8w-4W-5w-23.09.2026.tar.gz
 tar -xzf ciefp-E2-18sat-*.tar.gz -C /
 init 3
 
