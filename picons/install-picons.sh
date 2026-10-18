@@ -2,7 +2,8 @@
 ###############################################################################
 #  Picons 220x132 (13.0E + 19.2E) - Installer for Enigma2
 #  ---------------------------------------------------------------------------
-#  8016 transparent picons (source: picon.cz - picons by chocholousek)
+#  22,818 transparent picons (source: picon.cz - picons by chocholousek)
+#  Download  : https://github.com/azroukarim/plugins/releases  (asset: picon_transparant-220x132.tar.gz)
 #
 #  Install path is selected automatically:
 #    1) /media/hdd/picon           if HDD   is mounted and has free space
@@ -16,8 +17,8 @@
 #    sh /tmp/install-picons.sh
 ###############################################################################
 
-URL="https://raw.githubusercontent.com/azroukarim/plugins/main/picons/picontransparent-220x132-13.0E-19.2E_by_chocholousek.tar.gz"
-NEED_KB=80000          # required free space (~80 MB, extracted size is ~74 MB)
+URL="https://github.com/azroukarim/plugins/releases/download/picon_transparant-220x132/picon_transparant-220x132.tar.gz"
+NEED_KB=230000         # required free space (~225 MB, extracted size is ~214 MB)
 
 echo ""
 echo "========================================================="
@@ -64,7 +65,7 @@ if [ -n "$FREE_KB" ]; then
 else
     echo ">> Target : $DEST_BASE/picon   (no HDD/USB with enough space -> internal flash)"
 fi
-echo ">> Downloading and extracting ... (approx. 60 MB, please wait)"
+echo ">> Downloading and extracting ... (approx. 165 MB, please wait)"
 echo ""
 
 # ---- 2) download + extract ----
