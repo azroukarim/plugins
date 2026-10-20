@@ -6,6 +6,8 @@
 تعمل على صور Enigma2 (OpenATV / OpenPLi / OpenViX / OpenBH / VTi ...) وأجهزة DreamOS.
 
 > المصدر: <https://morpheus883.altervista.org/> — جميع الحقوق محفوظة لـ Morpheus883.
+>
+> 📄 لكل ملف على حدة (الرابط المباشر + سكريبت التثبيت الكامل): راجع **[readme2.md](readme2.md)**
 
 ## النسخ المتوفرة
 
@@ -38,6 +40,23 @@
 بالإضافة إلى:
 
 - `satellites.xml` — ملف الأقمار المستقل لكل الأقمار الـ88 (Ku Band)، يوضع في `/etc/tuxbox/satellites.xml`.
+
+## التثبيت بسكريبت (الطريقة الأسهل)
+
+```sh
+wget -q --no-check-certificate https://raw.githubusercontent.com/azroukarim/plugins/main/channels/Morph/install-morph-settings.sh -O /tmp/install-morph.sh
+sh /tmp/install-morph.sh
+```
+
+ثم اختر رقم النسخة المناسبة من القائمة. أو مباشرة بدون قائمة (مثال النسخة 13E = رقم 1):
+
+```sh
+sh /tmp/install-morph.sh 1
+```
+
+> السكريبت يتعامل تلقائياً مع إيقاف/تشغيل الإينغما على الصورتين:
+> OE (`init 4` / `init 3`) و DreamOS (`systemctl stop/start enigma2`)،
+> ويأخذ نسخة احتياطية من الإعدادات القديمة في `/tmp/morph-oldsettings-*` قبل الاستبدال.
 
 ## التثبيت اليدوي
 
